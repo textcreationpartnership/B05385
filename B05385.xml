@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letters of publication, in favours of Thomas Weir chyrurgeon in Edinburgh.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05385</idno>
+            <idno type="STC">Wing S1513A</idno>
+            <idno type="STC">ESTC R183076</idno>
+            <idno type="EEBO-CITATION">52528921</idno>
+            <idno type="OCLC">ocm 52528921</idno>
+            <idno type="VID">178940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178940)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Letters of publication, in favours of Thomas Weir chyrurgeon in Edinburgh.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Weir, Thomas, d. 1711?</author>
+                  <author>Scotland. (1685-1688 : James VII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh the second day of August 1687, and of Our Reign the third year. Signed: Per actum Dominorum secreti Concilij. Will. Paterson, Cls. Sti. Concilij.</note>
+                  <note>For the right to prepare and sell Dr. Anderson's pills, in opposition to the claims of Thomas Steil.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Steil, Thomas.</term>
+               <term>Weir, Thomas, d. 1711?</term>
+               <term>Patent medicines --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178940:1"/>
+            <head>
+               <figure>
+                  <head>I<hi rend="sup">7</hi> R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon, surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>LETTERS of PUBLICATION In favours of THOMAS WEIR Chirurgeon in <hi>Edinburgh.</hi>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">J</seg>AMES</hi> by the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith,</signed> 
+               <salute>To Our Lovits. Macers of Our Privy Council, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, and to all and ſundry Our Liedges and Subjects, whom it effiers, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as We having, by Our Royal Gift, Given and Granted to <hi>Thomas Weir</hi> Chirurgeon in <hi>Edinburgh,</hi> the ſole and only Priviledge after<g ref="char:EOLhyphen"/>mentioned, and contained in the ſaid Gift and Signature, and paſt under the Great Seal of this Our Ancient King<g ref="char:EOLhyphen"/>dom; Of which Gift and Signature, the Tenor follows, <hi>Sic ſupraſcribitur.</hi> JAMES <hi>R.</hi> Our Soveraign Lord, conſidering, that the Medicinal Pill, invented by the deceaſt Doctor <hi>Patrick Anderſon,</hi> Phyſician to His <hi>Majeſties</hi> deareſt Father, King <hi>Charles</hi> the Firſt, of ever bleſſed Memory, hath by Experience been found to be a moſt uſeful and ſafe Medicine, which hath recommended that Pill not only to His Majeſties Subjects in the Kingdom of <hi>Scotland,</hi> but likewiſe, it hath been uſed in the Kingdoms of <hi>England, Ireland,</hi> and other places in <hi>Europe;</hi> and that it is very much the intereſt of His Majeſties Subjects and others, that the Skill and Art of Preparing and Compounding that Pill be preſerved intire, and that Counterfeit, Sofiſticat, and Adulterat Pills be not impoſed upon Perſons, under the notion of this Pill, which is ſo univerſally known and uſed; And His Majeſty conſidering, that the Secret and Skill in preparing this Pill, was only communicated by Doctor <hi>Anderſon</hi> to his two Daughters, with power only to the Surviver of them to communicat and tranſmit that ſecret to ſome fit and qualified Perſon; and that the deceaſed <hi>Katharine Anderſon,</hi> the ſaid Doctors ſurviving Daughter hath communicat to <hi>Thomas Weir,</hi> Chirurgeon in <hi>Edinburgh,</hi> the whole Secret and Skill, in Preparing and Compounding the aforeſaid Pill, and hath ſufficiently inſtructed and ſeen him Prepare, and Com<g ref="char:EOLhyphen"/>pound, and make up that Pill, as well as ever it was by Doctor <hi>Anderſon,</hi> or his Daughters aforeſaid; And that the ſaid deceaſed <hi>Katharine Anderſon,</hi> hath by her Aſſignation, dated the Fifeteen day of <hi>December,</hi> laſt by-paſt Aſſigned and Diſponed to the ſaid <hi>Thomas VVeir</hi> her Stamp, for the Directions, and Seal for the Boxes, with all other Veſſels, Materials, and Inſtruments, for Compounding, Preparing, and Making up the ſaid Pills; and that the ſaid deceaſt <hi>Katharine Anderſon</hi> doth thereby declare, that ſhe hath communicated and tranſmitted that ſecret of Preparing and Compounding the ſaid Pill to the ſaid <hi>Thomas Weir,</hi> and no other perſon: And conſidering that there is none elſe to whom that ſecret is communicated, or the Art of Preparing and Compoun<g ref="char:EOLhyphen"/>ding the ſaid Pill is committed: and that notwithſtanding thereof, there are ſeveral perſons, who have already, and are of intention to feinȝie and coun<g ref="char:EOLhyphen"/>terfeit the ſaid Pill, and to diſperſe the ſame with Printed Papers, and otherways, under the name of the ſaid Pill, commonly called Doctor <hi>Anderſons</hi> Pills; Albeit the ſecret of Preparing and Compounding thereof was never communicated to them, or to any other perſon now on life, except the ſaid <hi>Thomas Weir,</hi> which (if not prevented) might prove very dangerous and prejudicial to His Majeſties Liedges and others, through making uſe of any counterfeit Sofiſticat and Adulterat Pills, and would much diſcourage the ſaid <hi>Thomas Weir,</hi> who hath only the ſecret of Preparing and Compounding thereof to him communicated by the ſaid <hi>Katharine Anderſon,</hi> who Aſſigned and Diſponed to him the ſaid Stamp and Seal, with all other Veſſels and Inſtruments for Compounding and Diſpenſing of the ſaid Pill in manner foreſaid: Therefore His Majeſty Ordains a Letter of Gift to be paſt and exped under His Ma<g ref="char:EOLhyphen"/>jeſties Great Seal of His Ancient Kingdom of <hi>Scotland,</hi> Giving, Granting and Diſponing, as His Majeſty for Himſelf and His Royal Succeſſors, Gives, Grants, and Diſpons to, and in favours of the ſaid <hi>Thomas Weir,</hi> the ſole Power, Right and Priviledge to Prepare, Compoſe, Diſpenſe and Vend the aforeſaid Pill, called Doctor <hi>Anderſons</hi> Pill, with power to him to uſe the ſaid Stamp and Seal formerly uſed by the ſaid <hi>Katharine Anderſon,</hi> for Atteſting and Marking the Printed Papers and Boxes belonging to the ſaids Pills, for all the days and years of the ſaid <hi>Thomas Weir</hi> his Life-time; And His Majeſty doth hereby Diſcharge all other Perſon or Perſons whatſomever, during the ſaid ſpace, directly or indirectly, to Prepare, Com<g ref="char:EOLhyphen"/>pound, Make up, Diſpenſe, or Vend any Pill or Pills under the name of the ſaid Pill, invented by the ſaid deceaſt Doctor <hi>Anderſon,</hi> or Papers r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lating thereto, without the ſpecial Licence of the ſaid <hi>Thomas Weir,</hi> under the penalty of One Thouſand Merks <hi>Scots</hi> for each Contravention. And His Majeſty doth hereby Recommend to His Privy Council, and other Judicatories of the ſaid Kingdom of <hi>Scotland,</hi> to ſee His pleaſure concerning the Premiſſes rendered effectual, and the Contraveeners fyned or puniſhed, to the terror of others; Providing always that the ſaid <hi>Thomas Weir</hi> ſhall be bound and obliged, not only to continue the faithful and true preparing, compoſing, making up, and diſpenſing of the ſaid Pills, as was formerly done by the ſaid deceaſt Doctor <hi>Anderſon</hi> and his Daughters, but likewiſe to communicate the ſecret thereof, and inſtruct any qualified perſon he ſhall think fit, to prepare, compoſe, and make up the ſaid Pill, (that the Invention be not loſt,) who ſhall have no benefite, priviledge, or liberty to compoſe or vend the aforeſaid Pill, during the full time and ſpace above-written: And His Majeſty Ordains the ſaid Gift to be further extended, with all Clauſes needful, and to paſs the Great Seal <hi>per ſaltum,</hi> without paſſing any other Seals or Regiſters, in order whereunto, theſe preſents ſhall be to the Director of His Majeſties Chancellory for writing out the ſame, and to the Lord High-Chancellor for cauſing the Great Seal to be appended thereto, a ſufficient Warrand. G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n at the Court at <hi>Whitehall,</hi> the nineteenth day of <hi>May,</hi> one thouſand ſix hundred and eighty ſeven, and of His Majeſties Reign the third Year. By His Majeſties Command. <hi>ſic ſubſcribitur,</hi> MELFORT. And whereas there having been an Addreſs made to Our Privy Council by the ſaid <hi>Thomas Weir,</hi> humbly intreating, that Our Letters of Publication of Our foreſaid Gift and Signature, now paſt under Our Great Seal, might be direct in manner, and to the effect under-written. The Lords of Our privy Council, in conſideration of the ſaid Addreſs, by their Act of the date of theſe preſents, have ordained theſe Our Letters to be direct accordingly, as the ſaid Act in it ſelf more fully purports. Our Will is herefore, and We Charge you ſtrictly, and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-croſs of <hi>Edinburgh,</hi> and whole remanent Mercat-croſſes of the Head burghs of the Shires of this Kingdom, and other places needful, and there in Our Name and Authority, by open Proclamation, make publication of Our Gift and Signature above-written paſt under Our Great Seal as ſaid is, in favours of the ſaid <hi>Thomas Weir,</hi> that all Our Leidges may have notice thereof, and give obedience thereto, under the Pains and Certifications therein-mentioned, and being further anſwerable, as Our privy Council ſhall think fit, in caſe they contraveen: According to Juſtice, as ye will anſwer to Us thereupon. The which to do, We commit to you con<g ref="char:EOLhyphen"/>junctly and ſeverally Our full Power by theſe Our Letters, delivering them by you duely execute and indorſed again to the Bearer.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi> 
+                  <date>the ſecond day of <hi>Auguſt</hi> 1687, And of Our Reign the third Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilij. <hi>WILL. PATERSON,</hi> Cls. Sti. Concilij.</signed>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majesty,</hi> Anno <hi>Dom.</hi> 1687.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>THeſe are to give Advertiſement to any perſon or perſons whatſomever, That the Pill called Doctor <hi>Anderſons</hi> Pill, with the printed Papers for inſtructing the uſe the eof, with his Tallideus Picture at the head thereof, and the Boxes being all ſealed with his own Seal, which bears his own Nam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ce and Arms, with <hi>K. A.</hi> for his Daughter <hi>Katharine Anderſons</hi> Name that laſt compoſed and ſold the ſame; are compoſed, and now to be <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only by <hi>Thomas VVeir</hi> Chirurgeon, at his Dwelling-Houſe in <hi>Edinburgh,</hi> on the South ſide of the High-Street of the ſame, in the Stone Land, and Third Door of the Fore-Turnpike thereof, <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pper Well or Conduit, commonly called the Caſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le-Well, a little belo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Weigh-Houſe of <hi>Ed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nburgh.</hi>
+            </p>
+            <pb facs="tcp:178940:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
